@@ -1,0 +1,40 @@
+.header {color:crimson;
+         position:absolute;
+         top:20px;
+         left:380px;}
+
+
+.paragraph{background-color: bisque;
+           width:500px;
+           font-family:Gabriola;
+           font-weight:bold;
+           position:absolute;
+           top:200px;
+           left:350px;
+           padding-left:20px;}
+
+
+.telegram{position:absolute;
+          top:390px;
+          left:360px;}
+
+
+.img{position:absolute;
+     left:950px;
+     }
+
+.insta{position:absolute;
+       left:990px;
+        top:450px;
+        }
+
+.email{position:absolute;
+left:990px;
+top:500px;}
+
+.video{position:absolute;
+       top:140px;
+       left:8px;}
+
+
+
